@@ -1,0 +1,58 @@
+PROVINCIA_OLD;COD_PROVINCIA;PROVINCIA
+A CORUÑA;15;Coruña
+ÁLAVA;01;Alava
+ALBACETE;02;Albacete
+ALICANTE;03;Alicante
+ALMERÍA;04;Almería
+ASTURIAS;33;Asturias
+ÁVILA;05;Ávila
+BADAJOZ;06;Badajoz
+BALEARES;07;Baleares
+BARCELONA;08;Barcelona
+BILBAO;48;Vizcaya (Bilbao)
+BIZKAIA;09;Burgos
+BURGOS;10;Cáceres
+CÁCERES;11;Cádiz
+CÁDIZ;39;Cantabria (Santander)
+CANTABRIA;12;Castellón
+CASTELLÓN;51;Ceuta
+CEUTA;13;Ciudad Real
+CIUDAD REAL;14;Córdoba
+CÓRDOBA;16;Cuenca
+CUENCA;20;Guipúzcoa
+GIPUZKOA;17;Gerona
+GIRONA;18;Granada
+GRANADA;19;Guadalajara
+GUADALAJARA;21;Huelva
+GUIPUZCOA;22;Huesca
+HUELVA;23;Jaén
+HUESCA;26;La Rioja
+JAÉN;35;Las Palmas
+LA RIOJA;24;León
+LAS PALMAS;25;Lérida
+LEÓN;27;Lugo
+LLEIDA;28;Madrid
+LUGO;29;Málaga
+MADRID;52;Melilla
+MÁLAGA;30;Murcia
+MELILLA;31;Navarra
+MURCIA;32;Orense
+NAVARRA;34;Palencia
+OURENSE;36;Pontevedra
+OVIEDO;37;Salamanca
+PALENCIA;40;Segovia
+PAMPLONA;41;Sevilla
+PLASENCIA;42;Soria
+PONTEVEDRA;43;Tarragona
+SALAMANCA;38;Santa Cruz de Tenerife
+SEGOVIA;44;Teruel
+SEVILLA;45;Toledo
+SORIA;46;Valencia
+TARRAGONA;47;Valladolid
+TENERIFE;49;Zamora
+TERUEL;50;Zaragoza
+TOLEDO;48;Vizcaya (Bilbao)
+VALENCIA;20;Guipúzcoa
+VALLADOLID;33;Asturias
+ZAMORA;31;Navarra
+ZARAGOZA;10;Cáceres
